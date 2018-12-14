@@ -31,7 +31,7 @@ function Bio() {
               Written by <strong>{author}</strong> who lives and works in Warszawa.
               <br />
               <a href={`https://twitter.com/${social.twitter}`}>
-                You can follow him on Twitter
+                You can follow me on Twitter
               </a>
             </p>
           </div>
