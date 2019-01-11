@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Fast & light',
+    title: 'Fast & Light',
     author: 'Ilya Marchuk',
-    description: 'A starter blog demonstrating what is Fast & Light',
+    description: 'A blog about Fast & Light adventures',
     siteUrl: 'https://fastlight.pl/',
     social: {
       twitter: 'vinil__'

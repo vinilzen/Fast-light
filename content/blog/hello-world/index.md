@@ -1,21 +1,13 @@
 ---
-title: Hello World
-date: "2015-05-01T22:12:03.284Z"
+title: Hello World!
+date: "2018-01-12T00:44:03.284Z"
 ---
 
-This is my first post on my new fake blog! How exciting!
+Cześć! 
 
-I'm sure I'll write a lot more interesting things in the future.
+Jeśli już odciełeś połowę szczoteczki do zębów i pierwsza rzecz w zakupie sprzętu to sprawdzenie ego wagi, to ty dobrze trafileś. Fastpaking, light bikepacking i takie tam słówka będę używać tutaj często i nie zawsze k miejscu. A jeśli na poważnie, będziemy wymysliać i opowiadać o wycieczkach szybkich i ambitnych, rekordach, sprzęcie i patentach przejscia.
 
-Oh, and here's a great quote from this Wikipedia on
-[salted duck eggs](http://en.wikipedia.org/wiki/Salted_duck_egg).
+Tematy które planuje opisać nie długo: przejscie Glównej Grani Tatr, Trawers Teneryfe, wejscie zimą na Aragac(Armenia).
 
-> A salted duck egg is a Chinese preserved food product made by soaking duck
-> eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-> supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-> charcoal paste. The eggs may also be sold with the salted paste removed,
-> wrapped in plastic, and vacuum packed. From the salt curing process, the
-> salted duck eggs have a briny aroma, a gelatin-like egg white and a
-> firm-textured, round yolk that is bright orange-red in color.
-
-![Chinese Salty Egg](./salty_egg.jpg)
+Zdjęcie calego sprzętu Juli, która przebieglą cała wyspe Teneryfe i zaliczyla Tejde (3 718 m) w pare dni.
+![Fastpaking](./tenerifa.jpg)

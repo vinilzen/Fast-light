@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="69px" height="32px" viewBox="0 0 69 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(1.000000, 0.000000)" fill-rule="nonzero" stroke="#E51B23">
+            <polygon id="mountain" points="0.109999089 31 67 31 49.7084832 10.1315104 38.8794877 17.686743 27.0643571 0 13.0971407 24.7355657 8.27848442 17.686743"></polygon>
+            <polygon id="forest" fill="#E51B23" points="0.896637236 31 11.2810602 22.4273818 12.5164548 25.8938882 22.8363031 15.4597214 26.188135 19.1012305 27.829639 13.5131319 34.2061419 19.1012305 35.1461019 14.8277286 39.0810308 18.5383877 45.8056114 17.8703319 48.6853911 20.7931742 50.2505859 18.5383877 55.8953934 22.2565659 56.4229333 18.5383877 67 31 12.6946613 31"></polygon>
+        </g>
+    </g>
+</svg>
