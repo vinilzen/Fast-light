@@ -9,5 +9,5 @@ Jeśli już odciąłeś połowę szczoteczki do zębów i pierwsza rzecz w zakup
 
 Tematy, które planuje opisać nie długo: przejście Głównej Grani Tatr, trawers Teneryfę, wejście zimą na Aragac(Armenia).
 
-> *Zdjęcie sprzętu Juli, która przebieglą cała wyspe Teneryfe i zaliczyla Tejde (3 718 m) w pare dni.*
+*Zdjęcie sprzętu Juli, która przebieglą cała wyspe Teneryfe i zaliczyla Tejde (3 718 m) w pare dni.*
 ![Fastpaking](./tenerifa.jpg)
