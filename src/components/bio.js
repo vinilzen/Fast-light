@@ -28,7 +28,7 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong> who lives and works in Warszawa.
+              Written by <strong>{author}</strong> who lives and works in Warsaw.
               <br />
               <a href={`https://twitter.com/${social.twitter}`}>
                 You can follow me on Twitter
