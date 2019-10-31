@@ -70,12 +70,6 @@ Nie biegną, schodzą
 
 
 
-
-
-
-
-
-
 Jacek Żebracki ➚ i ➚➘ , przynajmniej jeśli chodzi o trasę z Les Houches. 
 
 
@@ -110,3 +104,10 @@ Ilya z 34km 3460m Up  https://www.strava.com/activities/2652190347
 
 Killian z Les Houches 29km 3,860m Up https://www.strava.com/activities/2581257624/overview
 
+
+
+## 12-latek w dwanaście godzin wyszedł i zjechał na nartach z Mont Blanc     
+
+###  Alexandra Piegzy
+
+https://podroze.onet.pl/ciekawe/rekord-alexandra-piegzy-12-latek-w-dwanascie-godzin-wyszedl-i-zjechal-na-nartach-z/70cjzk5
