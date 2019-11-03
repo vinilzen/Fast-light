@@ -7,6 +7,9 @@ date: "2019-10-31T14:44:03.284Z"
 
 Chyba najbardziej znanym wejściem jest rekord [**Kiliana**](#KilianJornet) od 11 lipca 2013,  wtedy wejście na szczyt i zejście zajęło jemu **4h 57m**. Wcześniej rekord przynależał Szwajcarowi **Pierre-André Gobet**, który się trzymał z 1990 roku. Katalończyk poprawił ten czas o 14 minut. Trasa prowadzi przez lodowiec Bossons (dalej Grands Mulets – Vallot), więc nie jest super popularną. Na około 8 km jest 3800 metrów do góry. I tutaj na chwile się zatrzymamy...
 
+
+![Drogi na Mont Blanc](./mapa.png)
+
 ## Są różne drogi!
 
 ### A do tego jeszcze niektórzy biegną tylko do góry, a chodzą spokojnie lub inną drogą
@@ -38,6 +41,8 @@ W porównaniu do wyżej wymienionych, moje skromne wejscie spacerem z kolegą za
 
 Nasz GPX Ilya Marchuk & Sergei Golubev  https://www.strava.com/activities/2652190347
 
+
+![na szczycie Mont Blanc](./ILya_Segej_MontBlanc.jpg)
 
 ### Inne ciekawe wejscia
 
