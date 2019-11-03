@@ -3,111 +3,100 @@ title: Rekordowe wejscia na Mont Blanc
 date: "2019-10-31T14:44:03.284Z"
 ---
 
-# Mont Blanc
+## Historia wejść na Mont Blanc
 
+Chyba najbardziej znanym wejściem jest rekord **Kiliana** od 11 lipca 2013 w tedy wejście na szczyt i zejscie zajeło jemu 4h 57m. Wczesniej rekord przynałeżał Szwajcarowi **Pierre-André Gobet** który się trzymał z 1990 roku. Katalonczyk poprawił ten czas o 14 minut. Trasa prowadzi przez lodowiec Bossons (daliej Grands Mulets – Vallot), więc nie jest super popularną. Na około 8km jest 3800 metrów do góry. I tutaj na chwile się zatrzymamy... 
 
-## Historia wejść na Mont Blanca
+### Są różne drogi!
 
-​	Chyba najbardziej znanym wejściem jest rekord **Kiliana** od 11 lipca 2013 4h 57m z centrum Chamonix. Wczesniej rekord przynałeżał Szwajcarowi **Pierre-André Gobet** który się trzymał z 1990 roku. Katalonczyk poprawił ten czas o 14 minut. Trasa prowadzi przez lodowiec (daliej Grands Mulets - Vallot), więc nie jest super popularną. 
+#### A do tego jeszcze niektórzy biegną tylko do góry, a chodzą spokojnie lub inną drogą
 
-http://www.movescount.com/moves/move15747562
+Kilian zrobił swój rekord startując z Chamonix. Jest jeszcze droga z startem w Les Houches i Włosi, oczewiśćie, mają swoją wersje z startem w Courmayer. I też są różne warianty (Drogą Innominata – rekord Kilian Jornet, klasyczną włoską drogą poprzez Rifugio Gonnella–Col des Aiguilles Grises – rekord Marco De Gasperi).
 
-Międzyczasy Kiliana Jorneta: 
 
-Grands Mulets – **1h50m**
 
-Vallot – **3h**
+## Polskie osiągnięcia
 
-Mont Blanc – **3h33m**
+Przez to, że jest taki balagan, sprobuje spisać tutaj znane mi wyczyny. Polskie szybkie wejście (o których słyszałem) byli do tej pory na drodze klasycznej ze startem w Les Houches (14km w jedną stronę i 3800 metrów podejść)
 
-Zbieg – **1h24m**
+| Kto | Kiedy | Czas góra-dół | Czas góra |
+| ---- | ---- | ---- | ---- |
+| Rekord: Mathéo Jacquemoud | 20.08.2011 | nie wiadomo | 3:29 |
+| Marcin Pawłowski | 06.08.2015 | schodził spokojnie | 4:04 |
+| Jacek Żebracki | 15.07.2015 | 6:13 | 4:17 |
+| Anna Figura | 28.08.2015 | schodził spokojnie | 5:17 |
+| Łukasz Żdanowski | 18.09.2015 | 7:55 | 5:25 |
+| Kamil Grudzień | 18.09.2015 | schodził spokojnie | 5:25 |
+| Marcin Rzeszótko | 28.08.2015 | schodził spokojnie | 5:53 |
+| Anna Tybor  | 28.08.2015 | schodził spokojnie | 6:15 |
 
-Długość tej drogi około 8km, 3800m srednia prętkość podejscia 1000 vm/h (metry pionowe w godzine)
 
-​	Większość wchodzi z dołu z Les Houches, przez **Tete Rousse** i **Gouter**. Jest jeszcze włoska wersja z startem w Courmayeur, niby szybsza, dla tego że start się znajduje wyżej
 
+## Doświadczenie osobiste
 
+W porównaniu do wyżej wymienionych, moje skromne wejscie spacerem z kolegą zajeło nam 9h do góry i 17h góra-dól (17km 3460m ➚ ). My wybrali jeszcze inny wariant drogi klasycznej na Mont Blanca, podobną jak z Les Houches, tylko z statem na parkingu [Bionnassay](https://goo.gl/maps/Fsyirds1JL86Wy1t6). Dla tego że mieszkaliśmy od tej strony wzgórza :). Nie mieliś my parcia na rekord a ni na żyłowanie się, do tego nie mieliśmy aklimatyzacji i czuli to po 4 tys. m. nad poziomem morza. Kto wie moją forme – nie jest to problemem wejść w jeden dzień, a z drugiej strony rozumiem że rekordy kosmiczne.
 
-Kilian zdobył **Mont Blanc** mocno eksponowaną drogą **Innominata**, która nie jest może tak trudna jak północna ściana **Eigera**. Czas wejścia z kościoła w Courmayeur, położonego w Włoszech na wysokości ok. 1000m na szczyt 4810m wyniósł 6 godzin i 17 minut. 
+Ilya Marchuk & Sergei Golubev  https://www.strava.com/activities/2652190347
 
-##  
 
 
+### Inne ciekawe wejscia
 
+jako 12-latek w dwanaście godzin wyszedł i zjechał na nartach z Mont Blanc     
 
 
-## Najszybszy Polacy:
+#### Notatki:
 
-Polskie szybkie wejście (o których słyszałem) byli do tej pory na drodze klasyczna ze startem w Les Houches.
+**Kilian Jornet**
 
+* Les Houches <=> Mont Blanc https://www.strava.com/activities/2581257624/overview
+* Chamonix <=> Mont Blanc  http://www.movescount.com/moves/move15747562
 
 
 
+**Marco de Gasperi** klasyczną włoską drogą:
 
-**Jacek \*Żyłka\* Żebracki** – https://wspinanie.pl/2015/07/jacek-zebracki-mont-blanc/
+* opis: http://www.boymountaindreams.com/files/Record_Bianco_ITA.pdf
+* film na youtube: https://www.youtube.com/watch?v=xZ_wZNxEp5k
 
-15 lipca 2015 **4h 17min** ➚. => Pokonanie całej trasy zajęło mu **6h 13min**.
 
-Rekord na tym odcinku ustanowiony przez **Mathéo Jacquemouda** wynosi **3h 29min** ➚
 
+**Anna Figura** & Ko
 
+* https://outdoormagazyn.pl/2015/09/wielka-trojka-na-wielkiej-czworce-przyjaciele-wbiegli-na-mt-blanc/
 
-———————————————————
 
-https://outdoormagazyn.pl/2015/09/wielka-trojka-na-wielkiej-czworce-przyjaciele-wbiegli-na-mt-blanc/
 
-**Anna Figura** 28 sierpnia 2015 5 godzin 17 minut ➚
+**Mathéo Jacquemoud** record na trasie Les Houches => Mont Blanc
 
-support Anny Figury:
+* http://www.charleshedrich.com/index.php?option=com_content&task=view&id=1163&lang=en
 
-Anna Tybor **6h 15m**
 
-Marcin Rzeszótko **5h 53m** 
 
-**Powrót** 
+ **Marcin Pawłowski** 
 
-Nie biegną, schodzą
+* https://wspinanie.pl/2015/08/marcin-pawlowski-rekordowo-w-gore-na-mont-blanc/
 
 
 
-Jacek Żebracki ➚ i ➚➘ , przynajmniej jeśli chodzi o trasę z Les Houches. 
+**Jacek  Żebracki**
 
+*  https://wspinanie.pl/2015/07/jacek-zebracki-mont-blanc/
 
 
-Z kolei najszybszą Polką na tej trasie ➚ jest [Anna Figura](https://www.facebook.com/Anna-Figura-123437097837781/?hc_location=ufi) ,
 
+**Łukasz Żdanowski** i **Kamil Grudzień**
 
+* https://www.tygodniksiedlecki.com/g31427-wycieczka.na.mount.blanc..biegiem.-0-1.htm#
 
-6 sierpnia 2015 **Marcin Pawłowski** wbiegł na Mont Blanc ustanawiając czasem 4:04:07 polski rekord trasy Les Houches – Mont Blanc
 
-(powrót bez pospiechu )
 
-https://outdoormagazyn.pl/2015/08/marcin-pawlowski-rekordowo-w-gore-na-mont-blanc/
+**Innominata** 
 
+* opis drogi https://www.camptocamp.org/routes/54513/en/mont-blanc-innominata-ridge
 
 
-Łukasz Żdanowski i Kamil Grudzień zrobili bardzo dobry czas ... w 201x 
 
-*Po około 5 godz. i 25 min. od startu z Les Houches oba zdobyli szczyt*
+**Alexandr Piegza**
 
-Łukasz po 2h24m ➘  => 7h 55m całość
-
-https://www.tygodniksiedlecki.com/g31427-wycieczka.na.mount.blanc..biegiem.-0-1.htm#
-
-2015-09-18
-
-
-
-____
-
-Ilya z 34km 3460m Up  https://www.strava.com/activities/2652190347
-
-Killian z Les Houches 29km 3,860m Up https://www.strava.com/activities/2581257624/overview
-
-
-
-## 12-latek w dwanaście godzin wyszedł i zjechał na nartach z Mont Blanc     
-
-###  Alexandra Piegzy
-
-https://podroze.onet.pl/ciekawe/rekord-alexandra-piegzy-12-latek-w-dwanascie-godzin-wyszedl-i-zjechal-na-nartach-z/70cjzk5
+* https://podroze.onet.pl/ciekawe/rekord-alexandra-piegzy-12-latek-w-dwanascie-godzin-wyszedl-i-zjechal-na-nartach-z/70cjzk5

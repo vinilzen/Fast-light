@@ -1,11 +1,8 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "fast&light",
   "description": "Starter Gatsby Blog",
   "version": "1.0.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
-  "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby-starter-blog/issues"
-  },
   "dependencies": {
     "gatsby": "^2.15.34",
     "gatsby-image": "^2.2.25",
@@ -39,15 +36,13 @@
     "eslint-plugin-react": "^7.16.0",
     "prettier": "^1.18.2"
   },
-  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
-  "keywords": [
-    "gatsby"
-  ],
+  "homepage": "http://fastlight.pl/",
+  "keywords": ["gatsby"],
   "license": "MIT",
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "git@github.com:vinilzen/Fast-light.git"
   },
   "scripts": {
     "dev": "gatsby develop",
