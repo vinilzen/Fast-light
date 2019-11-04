@@ -37,7 +37,9 @@
     "prettier": "^1.18.2"
   },
   "homepage": "http://fastlight.pl/",
-  "keywords": ["gatsby"],
+  "keywords": [
+    "gatsby"
+  ],
   "license": "MIT",
   "main": "n/a",
   "repository": {

@@ -5,14 +5,14 @@ date: "2019-10-31T14:44:03.284Z"
 
 ## Historia wejść na Mont Blanc
 
-Chyba najbardziej znanym wejściem jest rekord [**Kiliana**](#KilianJornet) od 11 lipca 2013,  wtedy wejście na szczyt i zejście zajęło jemu **4h 57m**. Wcześniej rekord przynależał Szwajcarowi **Pierre-André Gobet**, który się trzymał z 1990 roku. Katalończyk poprawił ten czas o 14 minut. Trasa prowadzi przez lodowiec Bossons (dalej Grands Mulets – Vallot), więc nie jest super popularną. Na około 8 km jest 3800 metrów do góry. I tutaj na chwile się zatrzymamy...
+Chyba najbardziej znanym wejściem jest rekord [**Kiliana**](#KilianJornet) od 11 lipca 2013,  wtedy wejście na szczyt i zejście zajęło jemu **4h 57m**. Wcześniej rekord przynależał do Szwajcara **Pierre-André Gobet**, który się trzymał z 1990 roku. Katalończyk poprawił ten czas o 14 minut. Trasa prowadzi przez lodowiec Bossons (dalej Grands Mulets – Vallot), więc nie jest super popularną. Dlugość tej grogi jest 8 kilometrów w jedną stronę i 3800 metrów pod góre. I tutaj na chwile się zatrzymamy...
 
 
 ![Drogi na Mont Blanc](./mapa.png)
 
 ## Są różne drogi!
 
-### A do tego jeszcze niektórzy biegną tylko do góry, a chodzą spokojnie lub inną drogą
+### A do tego jeszcze niektórzy biegną tylko do góry, a schodzą spokojnie lub inną drogą
 
 Kilian zrobił swój rekord startując z Chamonix. Jest jeszcze droga ze startem w Les Houches i Włosi, oczywiście, mają swoją wersje ze startem w Courmayer. I też są różne warianty (Drogą [Innominata](#Innominata) – rekord [**Kilian Jornet**](#KilianJornet), klasyczną włoską drogą poprzez Rifugio Gonnella–Col des Aiguilles Grises – rekord [**Marco De Gasperi**](#MarcodeGasperi)).
 
@@ -20,7 +20,7 @@ Kilian zrobił swój rekord startując z Chamonix. Jest jeszcze droga ze startem
 
 ## Polskie osiągnięcia
 
-Przez to, że jest taki balagan, sprobuje spisać tutaj znane mi wyczyny. Polskie szybkie wejście (o których słyszałem) byli do tej pory na drodze klasycznej ze startem w Les Houches (14km w jedną stronę i 3800 metrów podejść)
+Przez to, że jest taki balagan, sprobuje spisać tutaj znane mi wyczyny. Polskie szybkie wejście (o których słyszałem) były do tej pory na drodze klasycznej ze startem w Les Houches (14km w jedną stronę i 3800 metrów podejść)
 
 | Kto | Kiedy | Czas góra-dół | Czas góra |
 | ---- | ---- | ---- | ---- |
@@ -28,7 +28,7 @@ Przez to, że jest taki balagan, sprobuje spisać tutaj znane mi wyczyny. Polski
 | [Marcin Pawłowski](MarcinPawlowski) | 06.08.2015 | schodził spokojnie | 4:04 |
 | [Jacek Żebracki](#JacekZebracki) | 15.07.2015 | 6:13 | 4:17 |
 | [Anna Figura](#AnnaFigura) | 28.08.2015 | schodził spokojnie | 5:17 |
-| [Łukasz Żdanowski](#LZKG) | 18.09.2015 | 7:55 | 5:25 |
+| [Łukasz Zdanowski](#LZKG) | 18.09.2015 | 7:55 | 5:25 |
 | [Kamil Grudzień](#LZKG) | 18.09.2015 | schodził spokojnie | 5:25 |
 | [Marcin Rzeszótko](#AnnaFigura) | 28.08.2015 | schodził spokojnie | 5:53 |
 | [Anna Tybor](#AnnaFigura)  | 28.08.2015 | schodził spokojnie | 6:15 |
@@ -37,7 +37,7 @@ Przez to, że jest taki balagan, sprobuje spisać tutaj znane mi wyczyny. Polski
 
 ## Doświadczenie osobiste
 
-W porównaniu do wyżej wymienionych, moje skromne wejscie spacerem z kolegą zajeło nam 9h do góry i 17h góra-dól (17km w jedną strone i 3460m ➚ ). My wybrali jeszcze inny wariant drogi klasycznej na Mont Blanca, podobną jak z Les Houches, tylko z statem na parkingu [Bionnassay](https://goo.gl/maps/Fsyirds1JL86Wy1t6), więc zaczeli od okołó 1400mnpm. Tylko dla tego, że mieszkaliśmy od tej strony wzgórza :). Nie mieliśmy parcia na rekord a ni na żyłowanie się, do tego nie mieliśmy aklimatyzacji i czuli to po 4 tys. m. nad poziomem morza. Kto wie moją formę – wejść w jeden dzień nie jest żaden problemem, a z drugiej strony bardzo dobrze teraz rozumiem, że rekordy kosmiczne.
+W porównaniu do wyżej wymienionych, moje skromne wejscie spacerem z kolegą zajeło nam 9h do góry i 17h góra-dól (17km w jedną strone i 3460m ➚ ). Wybraliśmy jeszcze inny wariant drogi klasycznej na Mont Blanca, podobną jak z Les Houches, tylko z startem na parkingu [Bionnassay](https://goo.gl/maps/Fsyirds1JL86Wy1t6), więc zaczeliśmy od okołó 1400mnpm. Tylko dla tego, że mieszkaliśmy od tej strony wzgórza :). Nie mieliśmy parcia na rekord a ni na żyłowanie się, do tego nie mieliśmy aklimatyzacji i czuliśmy to po 4 tys. m. nad poziomem morza. Kto wie moją formę – wejść w jeden dzień nie jest żadnym problemem, a z drugiej strony bardzo dobrze teraz rozumiem, że rekordy są kosmiczne.
 
 Nasz GPX Ilya Marchuk & Sergei Golubev  https://www.strava.com/activities/2652190347
 
@@ -74,7 +74,7 @@ Nasz GPX Ilya Marchuk & Sergei Golubev  https://www.strava.com/activities/265219
 * <a name="JacekZebracki"></a>**Jacek  Żebracki** Les Houches <=> Mont Blanc
   * https://wspinanie.pl/2015/07/jacek-zebracki-mont-blanc/
 
-* <a name="LZKG"></a>**Łukasz Żdanowski** i **Kamil Grudzień** Les Houches <=> Mont Blanc
+* <a name="LZKG"></a>**Łukasz Zdanowski** i **Kamil Grudzień** Les Houches <=> Mont Blanc
   * https://www.tygodniksiedlecki.com/g31427-wycieczka.na.mount.blanc..biegiem.-0-1.htm#
 
 * <a name="Innominata"></a> **Innominata** 
