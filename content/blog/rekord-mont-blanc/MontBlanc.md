@@ -26,6 +26,7 @@ Przez to, że jest taki balagan, sprobuje spisać tutaj znane mi wyczyny. Polski
 | ---- | ---- | ---- | ---- |
 | Rekord: [Mathéo Jacquemoud](#MatheoJacquemoud) | 20.08.2011 | nie wiadomo | 3:29 |
 | [Marcin Pawłowski](MarcinPawlowski) | 06.08.2015 | schodził spokojnie | 4:04 |
+| [Michał Klamut](#MichalKlamut) | 19.08.2018 | poniżej 7h | 4:12 |
 | [Jacek Żebracki](#JacekZebracki) | 15.07.2015 | 6:13 | 4:17 |
 | [Anna Figura](#AnnaFigura) | 28.08.2015 | schodził spokojnie | 5:17 |
 | [Łukasz Zdanowski](#LZKG) | 18.09.2015 | 7:55 | 5:25 |
@@ -82,3 +83,6 @@ Nasz GPX Ilya Marchuk & Sergei Golubev  https://www.strava.com/activities/265219
 
 * <a name="AlexandrPiegza"></a>**Alexandr Piegza**
   * https://podroze.onet.pl/ciekawe/rekord-alexandra-piegzy-12-latek-w-dwanascie-godzin-wyszedl-i-zjechal-na-nartach-z/70cjzk5
+
+* <a name="MichalKlamut"></a>**Michał Klamut**
+  * https://www.strava.com/activities/1783011359
