@@ -5,7 +5,7 @@ date: "2019-10-31T14:44:03.284Z"
 
 ## Historia wejść na Mont Blanc
 
-Chyba najbardziej znanym wejściem jest rekord [**Kiliana**](#KilianJornet) od 11 lipca 2013,  wtedy wejście na szczyt i zejście zajęło jemu **4h 57m**. Wcześniej rekord przynależał do Szwajcara **Pierre-André Gobet**, który się trzymał z 1990 roku. Katalończyk poprawił ten czas o 14 minut. Trasa prowadzi przez lodowiec Bossons (dalej Grands Mulets – Vallot), więc nie jest super popularną. Dlugość tej grogi jest 8 kilometrów w jedną stronę i 3800 metrów pod góre. I tutaj na chwile się zatrzymamy...
+Chyba najbardziej znanym wejściem jest rekord [**Kiliana**](#KilianJornet) od 11 lipca 2013,  wtedy wejście na szczyt i zejście zajęło jemu **4h 57m**. Wcześniej rekord przynależał do Szwajcara **Pierre-André Gobet**, który się trzymał z 1990 roku. Katalończyk poprawił ten czas o 14 minut. Trasa prowadzi przez lodowiec Bossons (dalej Grands Mulets – Vallot), więc nie jest super popularną. Dlugość tej drogi jest 8 kilometrów w jedną stronę i 3800 metrów pod góre. I tutaj na chwile się zatrzymamy...
 
 
 ![Drogi na Mont Blanc](./mapa.png)
