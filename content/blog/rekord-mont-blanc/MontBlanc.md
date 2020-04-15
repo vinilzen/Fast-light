@@ -38,7 +38,7 @@ Przez to, że jest taki balagan, sprobuje spisać tutaj znane mi wyczyny. Polski
 
 ## Doświadczenie osobiste
 
-W porównaniu do wyżej wymienionych, moje skromne wejscie spacerem z kolegą zajeło nam 9h do góry i 17h góra-dól (17km w jedną strone i 3460m ➚ ). Wybraliśmy jeszcze inny wariant drogi klasycznej na Mont Blanca, podobną jak z Les Houches, tylko z startem na parkingu [Bionnassay](https://goo.gl/maps/Fsyirds1JL86Wy1t6), więc zaczeliśmy od okołó 1400mnpm. Tylko dla tego, że mieszkaliśmy od tej strony wzgórza :). Nie mieliśmy parcia na rekord a ni na żyłowanie się, do tego nie mieliśmy aklimatyzacji i czuliśmy to po 4 tys. m. nad poziomem morza. Kto wie moją formę – wejść w jeden dzień nie jest żadnym problemem, a z drugiej strony bardzo dobrze teraz rozumiem, że rekordy są kosmiczne.
+W porównaniu do wyżej wymienionych, [moje skromne wejscie na szczyt Mont Blanc](https://fastlight.pl/wejscie-na-mont-blanc/) spacerem z kolegą zajeło nam 9h do góry i 17h góra-dól (17km w jedną strone i 3460m ➚ ). Wybraliśmy jeszcze inny wariant drogi klasycznej na Mont Blanca, podobną jak z Les Houches, tylko z startem na parkingu [Bionnassay](https://goo.gl/maps/Fsyirds1JL86Wy1t6), więc zaczeliśmy od okołó 1400mnpm. Tylko dla tego, że mieszkaliśmy od tej strony wzgórza :). Nie mieliśmy parcia na rekord a ni na żyłowanie się, do tego nie mieliśmy aklimatyzacji i czuliśmy to po 4 tys. m. nad poziomem morza. Kto wie moją formę – wejść w jeden dzień nie jest żadnym problemem, a z drugiej strony bardzo dobrze teraz rozumiem, że rekordy są kosmiczne.
 
 Nasz GPX Ilya Marchuk & Sergei Golubev  https://www.strava.com/activities/2652190347
 
