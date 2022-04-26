@@ -1,6 +1,6 @@
 # Fast & Light
 
-[fastlight.pl]https://fastlight.pl/
+[https://fastlight.pl/](fastlight.pl)
 
 # gatsby-starter-blog
 Gatsby starter for creating a blog
