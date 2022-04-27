@@ -5,7 +5,7 @@ date: "2019-10-31T14:44:03.284Z"
 
 ## Historia wejść na Mont Blanc
 
-Chyba najbardziej znanym wejściem jest rekord [**Kiliana**](#KilianJornet) od 11 lipca 2013,  wtedy wejście na szczyt i zejście zajęło jemu **4h 57m**. Wcześniej rekord przynależał do Szwajcara **Pierre-André Gobet**, który się trzymał z 1990 roku. Katalończyk poprawił ten czas o 14 minut. Trasa prowadzi przez lodowiec Bossons (dalej Grands Mulets – Vallot), więc nie jest super popularną. Dlugość tej drogi jest 8 kilometrów w jedną stronę i 3800 metrów pod góre. I tutaj na chwile się zatrzymamy...
+Chyba najbardziej znanym wejściem jest rekord [**Kiliana**](#KilianJornet) od 11 lipca 2013,  wtedy wejście na szczyt i zejście zajęło jemu **4h 57m**. Wcześniej rekord przynależał do Szwajcara **Pierre-André Gobet**, który się trzymał z 1990 roku. Katalończyk poprawił ten czas o 14 minut. Trasa prowadzi przez lodowiec Bossons (dalej Grands Mulets – Vallot), więc nie jest super popularną. Długość tej drogi jest 8 kilometrów w jedną stronę i 3800 metrów pod górę. I tutaj na chwile się zatrzymamy...
 
 
 ![Drogi na Mont Blanc](./mapa.png)
@@ -20,9 +20,9 @@ Kilian zrobił swój rekord startując z Chamonix. Jest jeszcze droga ze startem
 
 ## Polskie osiągnięcia
 
-Przez to, że jest taki balagan, sprobuje spisać tutaj znane mi wyczyny. Polskie szybkie wejście (o których słyszałem) były do tej pory na drodze klasycznej ze startem w Les Houches (14km w jedną stronę i 3800 metrów podejść)
+Przez to, że jest taki bałagan, spróbuję spisać tutaj znane mi wyczyny. Polskie szybkie wejście (o których słyszałem) były do tej pory na drodze klasycznej ze startem w Les Houches (14km w jedną stronę i 3800 metrów podejść)
 
-| Kto | Kiedy | Czas góra-dół | Czas góra |
+| Kto | Kiedy | Czas góra-dół | Czas wejscia na szczyt |
 | ---- | ---- | ---- | ---- |
 | Rekord: [Mathéo Jacquemoud](#MatheoJacquemoud) | 20.08.2011 | nie wiadomo | 3:29 |
 | [Marcin Pawłowski](MarcinPawlowski) | 06.08.2015 | schodził spokojnie | 4:04 |
@@ -38,14 +38,14 @@ Przez to, że jest taki balagan, sprobuje spisać tutaj znane mi wyczyny. Polski
 
 ## Doświadczenie osobiste
 
-W porównaniu do wyżej wymienionych, [moje skromne wejscie na szczyt Mont Blanc](https://fastlight.pl/wejscie-na-mont-blanc/) spacerem z kolegą zajeło nam 9h do góry i 17h góra-dól (17km w jedną strone i 3460m ➚ ). Wybraliśmy jeszcze inny wariant drogi klasycznej na Mont Blanca, podobną jak z Les Houches, tylko z startem na parkingu [Bionnassay](https://goo.gl/maps/Fsyirds1JL86Wy1t6), więc zaczeliśmy od okołó 1400mnpm. Tylko dla tego, że mieszkaliśmy od tej strony wzgórza :). Nie mieliśmy parcia na rekord a ni na żyłowanie się, do tego nie mieliśmy aklimatyzacji i czuliśmy to po 4 tys. m. nad poziomem morza. Kto wie moją formę – wejść w jeden dzień nie jest żadnym problemem, a z drugiej strony bardzo dobrze teraz rozumiem, że rekordy są kosmiczne.
+W porównaniu do wyżej wymienionych, [moje skromne wejscie na szczyt Mont Blanc](https://fastlight.pl/wejscie-na-mont-blanc/) spacerem z kolegą zajeło nam 9h do góry i 17h góra-dól (17km w jedną stronę i 3460m ➚ ). Wybraliśmy jeszcze inny wariant drogi klasycznej na Mont Blanca, podobną jak z Les Houches, tylko z startem na parkingu [Bionnassay](https://goo.gl/maps/Fsyirds1JL86Wy1t6), więc zaczęliśmy od około 1400mnpm. Tylko dla tego, że mieszkaliśmy od tej strony wzgórza :). Nie mieliśmy parcia na rekord a ni na żyłowanie się, do tego nie mieliśmy aklimatyzacji i czuliśmy to po 4 tys. m. nad poziomem morza. Kto wie moją formę – wejść w jeden dzień nie jest żadnym problemem, a z drugiej strony bardzo dobrze teraz rozumiem, że rekordy są kosmiczne.
 
 Nasz GPX Ilya Marchuk & Sergei Golubev  https://www.strava.com/activities/2652190347
 
 
 ![na szczycie Mont Blanc](./ILya_Segej_MontBlanc.jpg)
 
-### Inne ciekawe wejscia
+### Inne ciekawe wejścia
 
 [Alexandr Piegza](#AlexandrPiegza) jako 12-latek w dwanaście godzin wyszedł i zjechał na nartach z Mont Blanc
 
